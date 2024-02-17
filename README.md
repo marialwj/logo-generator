@@ -30,8 +30,8 @@ To launch the application, run the following command in the terminal:
 3. Text Input: Add up to three characters of text to your logo.
 4. SVG Output: Automatically saves your custom logo as an SVG file.
 
-Walkthrough Video
-For a detailed demonstration of the application's functionality and its test suite, please refer to the walkthrough video.
+## Walkthrough Video
+For a detailed demonstration of the application's functionality and its test suite, please refer to the [![WalkthroughVideo]](walkthrough%20video.mp4)
 
 ## Tests
 To ensure reliability, the application includes a suite of unit tests for the shape classes. Run these tests using Jest with the following command:
